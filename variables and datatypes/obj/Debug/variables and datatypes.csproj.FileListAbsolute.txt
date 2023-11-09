@@ -1,0 +1,7 @@
+D:\mphasis\problem statement\days\day 4\variables and datatypes\variables and datatypes\bin\Debug\variables and datatypes.exe.config
+D:\mphasis\problem statement\days\day 4\variables and datatypes\variables and datatypes\bin\Debug\variables and datatypes.exe
+D:\mphasis\problem statement\days\day 4\variables and datatypes\variables and datatypes\bin\Debug\variables and datatypes.pdb
+D:\mphasis\problem statement\days\day 4\variables and datatypes\variables and datatypes\obj\Debug\variables and datatypes.csproj.AssemblyReference.cache
+D:\mphasis\problem statement\days\day 4\variables and datatypes\variables and datatypes\obj\Debug\variables and datatypes.csproj.CoreCompileInputs.cache
+D:\mphasis\problem statement\days\day 4\variables and datatypes\variables and datatypes\obj\Debug\variables and datatypes.exe
+D:\mphasis\problem statement\days\day 4\variables and datatypes\variables and datatypes\obj\Debug\variables and datatypes.pdb
